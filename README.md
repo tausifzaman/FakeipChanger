@@ -3,7 +3,7 @@ This fun and innovative GitHub tool is perfect for pranks or enhancing online pr
 
 ##One Line Code
 ```
-https://github.com/tausifzaman/FakeipChanger.git && cd FakeipChanger && python3 ipchanger.py
+git clone https://github.com/tausifzaman/FakeipChanger.git && cd FakeipChanger && python3 ipchanger.py
 ```
 ## Termux
 ```
