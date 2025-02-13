@@ -1,13 +1,14 @@
 import random
 import time
+import os
 
+os.system("clear" if os.name == "posix" else "cls")
 # Color codes
 RED = '\033[91m'
 GREEN = '\033[92m'
 YELLOW = '\033[93m'
 RESET = '\033[0m'
 
-# ASCII Art
 ascii_logo = RED + r'''
   _____ _____      ______/ /                             
  |_   _|  __ \    / ____/ /_  ____ _____  ____  ___  _____
