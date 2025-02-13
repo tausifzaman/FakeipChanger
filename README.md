@@ -6,7 +6,10 @@ This fun and innovative GitHub tool is perfect for pranks or enhancing online pr
 https://github.com/tausifzaman/FakeipChanger.git 
 ```
 ```
-cd FakeipChanger && python3 ipchanger.py
+cd FakeipChanger
+```
+```
+ python3 ipchanger.py
 ```
 
 ## Kali Linux / Linux
@@ -14,7 +17,10 @@ cd FakeipChanger && python3 ipchanger.py
 https://github.com/tausifzaman/FakeipChanger.git 
 ```
 ```
-cd FakeipChanger && python3 ipchanger.py
+cd FakeipChanger
+```
+```
+python3 ipchanger.py
 ```
 
 ## Google Cloud
@@ -22,5 +28,8 @@ cd FakeipChanger && python3 ipchanger.py
 https://github.com/tausifzaman/FakeipChanger.git 
 ```
 ```
-cd FakeipChanger && python3 ipchanger.py
+cd FakeipChanger
+```
+```
+ python3 ipchanger.py
 ```
